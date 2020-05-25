@@ -12,7 +12,7 @@ export default {
   siteName: 'Getbuya',
   tagline: 'All Things Digital',
   featureImage: '/uploads/home-hero.jpg',
-  logo: 'logo.png', // 'logo-component', // or '/logo.svg' for regular image
+  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
